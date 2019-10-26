@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf0a970-a96d-48f6-96f6-58ad3da25885" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/01-hello world.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/01-hello world.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/02-h、p、strong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/02-h、p、strong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/03-字符实体.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/03-字符实体.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/04-img.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/04-img.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/05-a.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/05-a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/06-iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/06-iframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/07-base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/07-base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/08-锚点链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/08-锚点链接.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/08-锚点链接02.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/08-锚点链接02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/09-伪链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/09-伪链接.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/page_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/page_a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/page_b.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/page_b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-前端开发初体验/page_c.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/page_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/01-html/11-URL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/01-html/images/IMG_0016.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/01-html/images/IMG_1529.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/01-html/images/zelda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/01-html/09-伪链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/09-伪链接.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571925679042</updated>
       <workItem from="1571925680793" duration="1201000" />
-      <workItem from="1571962463394" duration="16371000" />
+      <workItem from="1571962463394" duration="18130000" />
     </task>
     <servers />
   </component>
