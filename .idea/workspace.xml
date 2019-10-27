@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf0a970-a96d-48f6-96f6-58ad3da25885" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/01-html/11-URL.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/01-html/images/IMG_0016.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/01-html/images/IMG_1529.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/01-html/images/zelda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/01-内联样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/02-文档样式表.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-html/09-伪链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/09-伪链接.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web前端.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Web前端.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +40,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/01-前端开发初体验" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/02-CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code/02-CSS" />
       <recent name="$PROJECT_DIR$/Code/01-前端开发初体验" />
     </key>
   </component>
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571925679042</updated>
       <workItem from="1571925680793" duration="1201000" />
-      <workItem from="1571962463394" duration="18130000" />
+      <workItem from="1571962463394" duration="21237000" />
     </task>
     <servers />
   </component>
