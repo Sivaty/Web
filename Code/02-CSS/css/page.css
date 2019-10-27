@@ -1,0 +1,7 @@
+@charset "UTF-8";
+@import "page2.css";
+div {
+    color: aquamarine;
+    background-color: cadetblue;
+    font-size: 40px;
+}

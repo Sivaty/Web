@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf0a970-a96d-48f6-96f6-58ad3da25885" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/01-内联样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/02-文档样式表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/03-外部样式表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/04-网页图标.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/05-div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/06-text-decoration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/07-spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/08-text-indent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/09-font-size.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/10-font-family.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/11-font-face.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/12-font-variant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/css/page2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/fonts/GSKA00H.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/images/IMG_0016.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/images/IMG_1529.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/images/zelda.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code/01-html/10-图片链接.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web前端.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Web前端.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -40,11 +54,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/02-CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/02-CSS/fonts" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code/02-CSS/fonts" />
+      <recent name="$PROJECT_DIR$/Code/02-CSS/images" />
       <recent name="$PROJECT_DIR$/Code/02-CSS" />
       <recent name="$PROJECT_DIR$/Code/01-前端开发初体验" />
     </key>
@@ -72,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571925679042</updated>
       <workItem from="1571925680793" duration="1201000" />
-      <workItem from="1571962463394" duration="21237000" />
+      <workItem from="1571962463394" duration="35183000" />
     </task>
     <servers />
   </component>
