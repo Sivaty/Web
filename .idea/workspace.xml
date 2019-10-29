@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf0a970-a96d-48f6-96f6-58ad3da25885" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/13-选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/14-class选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/15-属性选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/02-CSS/16-后代选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/17-兄弟选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/02-CSS/18-选择器组.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571925679042</updated>
       <workItem from="1571925680793" duration="1201000" />
-      <workItem from="1571962463394" duration="37205000" />
+      <workItem from="1571962463394" duration="38737000" />
     </task>
     <servers />
   </component>
